@@ -1,6 +1,6 @@
 dependencies: 
-  -python=3
-  -pip: 
-    -ipykernel
-    -numpy
-    -pandas
+ -python=3
+ -pip: 
+   -ipykernel
+   -numpy
+   -pandas
